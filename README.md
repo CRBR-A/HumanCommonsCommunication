@@ -1,2 +1,2 @@
-# HumanLanguage
-Free "public domain" resources : the human language [English and other]
+# HumanLanguages
+Free "public domain" resources : Human languages.
