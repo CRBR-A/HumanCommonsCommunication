@@ -1,0 +1,16 @@
+## 
+###
+###
+
+
+---
+current:
+  character: capital letter b
+  source:
+    author: h0tp3ngu1n
+    url: <https://opengameart.org/content/4x4-px-bitmap-font>
+    license: CC0 Public Domain
+  file:
+    url: <./capital-b.txt>
+    license: CC0 Public Domain
+...

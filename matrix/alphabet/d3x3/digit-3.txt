@@ -1,0 +1,15 @@
+###
+ ##
+###
+
+---
+current:
+  character: digit 3
+  source:
+    author: h0tp3ngu1n
+    url: <https://opengameart.org/content/4x4-px-bitmap-font>
+    license: CC0 Public Domain
+  file:
+    url: <./digit-3.txt>
+    license: CC0 Public Domain
+...

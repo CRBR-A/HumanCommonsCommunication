@@ -1,0 +1,15 @@
+ # 
+# #
+   
+
+---
+current:
+  character: circumflex accent
+  source:
+    author: h0tp3ngu1n
+    url: <https://opengameart.org/content/4x4-px-bitmap-font>
+    license: CC0 Public Domain
+  file:
+    url: <./circumflex-accent.txt>
+    license: CC0 Public Domain
+...
