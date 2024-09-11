@@ -1,0 +1,19 @@
+  #  
+ ####
+# #  
+ ### 
+  # #
+#### 
+  # 
+
+---
+current:
+  character: dollar sign
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./dollar-sign.txt>
+    license: CC0 Public Domain
+...

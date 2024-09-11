@@ -1,0 +1,19 @@
+     
+     
+ ### 
+#   #
+#####
+#    
+ ####
+
+---
+current:
+  character: small letter e
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./small-e.txt>
+    license: CC0 Public Domain
+...

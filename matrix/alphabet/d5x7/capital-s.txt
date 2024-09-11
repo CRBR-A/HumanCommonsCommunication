@@ -1,0 +1,19 @@
+ ####
+#    
+#    
+ ### 
+    #
+    #
+#### 
+
+---
+current:
+  character: capital letter s
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./capital-s.txt>
+    license: CC0 Public Domain
+...

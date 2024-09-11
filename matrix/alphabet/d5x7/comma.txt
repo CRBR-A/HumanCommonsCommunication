@@ -1,0 +1,19 @@
+     
+     
+     
+     
+ ##  
+  #  
+ #   
+
+---
+current:
+  character: comma
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./comma.txt>
+    license: CC0 Public Domain
+...

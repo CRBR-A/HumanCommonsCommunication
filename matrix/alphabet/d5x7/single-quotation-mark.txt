@@ -1,0 +1,19 @@
+ ##  
+  #  
+ #   
+     
+     
+     
+     
+
+---
+current:
+  character: single quotation mark
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./single-quotation-mark.txt>
+    license: CC0 Public Domain
+...

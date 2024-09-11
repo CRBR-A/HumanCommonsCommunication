@@ -1,0 +1,19 @@
+     
+     
+# ## 
+##  #
+#   #
+#   #
+#   #
+
+---
+current:
+  character: small letter n
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./small-n.txt>
+    license: CC0 Public Domain
+...

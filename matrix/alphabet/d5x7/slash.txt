@@ -1,0 +1,19 @@
+     
+    #
+   # 
+  #  
+ #   
+#    
+     
+
+---
+current:
+  character: slash
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./slash.txt>
+    license: CC0 Public Domain
+...

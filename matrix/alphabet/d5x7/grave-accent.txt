@@ -1,0 +1,19 @@
+ #   
+  #  
+   # 
+     
+     
+     
+     
+
+---
+current:
+  character: grave accent
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/lcd-alphanumeric-characters>
+    license: CC0 Public Domain
+  file:
+    url: <./grave-accent.txt>
+    license: CC0 Public Domain
+...
