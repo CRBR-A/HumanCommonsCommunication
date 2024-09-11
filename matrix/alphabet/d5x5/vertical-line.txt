@@ -1,0 +1,17 @@
+  #  
+  #  
+  #  
+  #  
+  #  
+
+---
+current:
+  character: vertical line
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./vertical-line.txt>
+    license: CC0 Public Domain
+...

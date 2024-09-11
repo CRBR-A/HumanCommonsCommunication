@@ -1,0 +1,17 @@
+  #  
+  #  
+#####
+  #  
+  #  
+
+---
+current:
+  character: plus sign
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./plus-sign.txt>
+    license: CC0 Public Domain
+...

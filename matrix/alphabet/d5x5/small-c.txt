@@ -1,0 +1,17 @@
+     
+ ####
+#    
+#    
+ ####
+
+---
+current:
+  character: small letter c
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./small-c.txt>
+    license: CC0 Public Domain
+...

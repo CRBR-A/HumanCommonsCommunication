@@ -1,0 +1,17 @@
+#   #
+#   #
+#####
+    #
+    #
+
+---
+current:
+  character: digit 4
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./digit-4.txt>
+    license: CC0 Public Domain
+...

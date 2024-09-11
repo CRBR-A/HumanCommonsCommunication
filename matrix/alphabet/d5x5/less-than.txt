@@ -1,0 +1,17 @@
+   # 
+  #  
+ #   
+  #  
+   # 
+
+---
+current:
+  character: less than
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./less-than.txt>
+    license: CC0 Public Domain
+...

@@ -1,0 +1,17 @@
+#### 
+#   #
+#### 
+#    
+#    
+
+---
+current:
+  character: small letter p
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./small-p.txt>
+    license: CC0 Public Domain
+...
