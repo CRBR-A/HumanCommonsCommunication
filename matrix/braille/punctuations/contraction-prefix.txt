@@ -1,0 +1,12 @@
+O O
+O X
+O O
+
+---
+current:
+  letter: contraction-prefix
+  file: <./contraction-prefix.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_ContractionPrefix.svg>
+    license: public domain
+...

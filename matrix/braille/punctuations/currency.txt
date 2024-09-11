@@ -1,0 +1,12 @@
+O X
+O X
+O O
+
+---
+current:
+  letter: currency
+  file: <./currency.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Currency.svg>
+    license: public domain
+...

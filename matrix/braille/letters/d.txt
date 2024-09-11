@@ -1,0 +1,13 @@
+X X
+O X
+O O
+
+---
+current:
+  letter: d
+  number: 4
+  file: <./d-4.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_D4.svg>
+    license: public domain
+...

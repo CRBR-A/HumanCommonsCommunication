@@ -1,0 +1,13 @@
+O X
+X X
+O O
+
+---
+current:
+  letter: j
+  number: 0
+  file: <./j-0.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_J0.svg>
+    license: public domain
+...

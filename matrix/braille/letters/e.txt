@@ -1,0 +1,13 @@
+X O
+O X
+O O
+
+---
+current:
+  letter: e
+  number: 5
+  file: <./e-5.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_E5.svg>
+    license: public domain
+...

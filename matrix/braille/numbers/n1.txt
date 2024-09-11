@@ -1,0 +1,13 @@
+X O
+O O
+O O
+
+---
+current:
+  letter: a
+  number: 1
+  file: <./a-1.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_A1.svg>
+    license: public domain
+...

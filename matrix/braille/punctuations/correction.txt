@@ -1,0 +1,12 @@
+O O
+O X
+O X
+
+---
+current:
+  letter: correction
+  file: <./correction.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Correction.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+O X
+O X
+X O
+
+---
+current:
+  letter: at sign
+  file: <./at-sign.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%84.svg>
+    license: public domain
+...

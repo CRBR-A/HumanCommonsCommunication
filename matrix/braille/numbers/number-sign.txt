@@ -1,0 +1,12 @@
+O X
+O X
+X X
+
+---
+current:
+  letter: number sign
+  file: <./number-sign.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_NumberSign.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+O X
+X X
+O X
+
+---
+current:
+  letter: w
+  file: <./w.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_W.svg>
+    license: public domain
+...

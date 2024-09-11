@@ -1,0 +1,12 @@
+O X
+O O
+X O
+
+---
+current:
+  letter: i grave accent
+  file: <./i-grave.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_ST.svg>
+    license: public domain
+...

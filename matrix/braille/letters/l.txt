@@ -1,0 +1,12 @@
+X O
+X O
+X O
+
+---
+current:
+  letter: l
+  file: <./l.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_L.svg>
+    license: public domain
+...

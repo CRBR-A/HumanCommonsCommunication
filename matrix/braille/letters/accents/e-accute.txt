@@ -1,0 +1,12 @@
+X X
+X X
+X X
+
+---
+current:
+  letter: e accute
+  file: <./e-accute.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%89.svg>
+    license: public domain
+...

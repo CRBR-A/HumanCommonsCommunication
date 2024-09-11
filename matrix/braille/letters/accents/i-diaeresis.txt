@@ -1,0 +1,12 @@
+X X
+X X
+O X
+
+---
+current:
+  letter: i diaeresis
+  file: <./i-diaeresis.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%8F.svg>
+    license: public domain
+...

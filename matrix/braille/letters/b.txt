@@ -1,0 +1,13 @@
+X O
+X O
+O O
+
+---
+current:
+  letter: b
+  number: 2
+  file: <./b-2.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_B2.svg>
+    license: public domain
+...
