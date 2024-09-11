@@ -1,0 +1,17 @@
+###
+# #
+# #
+#
+###
+
+---
+current:
+  character: at sign
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./at-sign.txt>
+    license: CC0 Public Domain
+...

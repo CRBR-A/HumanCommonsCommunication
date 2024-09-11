@@ -1,0 +1,17 @@
+### 
+#  
+ # 
+  #
+###
+
+---
+current:
+  character: capital letter s
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./capital-s.txt>
+    license: CC0 Public Domain
+...

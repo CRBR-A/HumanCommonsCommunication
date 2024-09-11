@@ -1,0 +1,17 @@
+###
+#  
+## 
+#  
+#  
+
+---
+current:
+  character: capital letter f
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./capital-f.txt>
+    license: CC0 Public Domain
+...

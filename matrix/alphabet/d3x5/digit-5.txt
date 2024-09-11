@@ -1,0 +1,17 @@
+###
+#
+###
+  #
+###
+
+---
+current:
+  character: digit 5
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./digit-5.txt>
+    license: CC0 Public Domain
+...
