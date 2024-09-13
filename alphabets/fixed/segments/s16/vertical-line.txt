@@ -1,0 +1,19 @@
+       
+   |   
+   |   
+       
+   |   
+   |   
+       
+
+---
+current:
+  character: vertical line
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./vertical-line.txt>
+    license: CC0 Public Domain
+...

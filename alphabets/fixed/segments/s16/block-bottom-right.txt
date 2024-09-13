@@ -1,0 +1,20 @@
+       
+       
+       
+    -- 
+   |\ |
+   | \|
+    -- 
+
+
+---
+current:
+  character: block bottom right
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./block-bottom-right.txt>
+    license: CC0 Public Domain
+...

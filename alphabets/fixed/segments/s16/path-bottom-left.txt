@@ -1,0 +1,20 @@
+       
+|  |   
+|  |   
+    -- 
+|      
+|      
+ -- -- 
+
+
+---
+current:
+  character: path bottom left
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./path-bottom-left.txt>
+    license: CC0 Public Domain
+...

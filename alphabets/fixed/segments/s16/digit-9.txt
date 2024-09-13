@@ -1,0 +1,19 @@
+ -- -- 
+|     |
+|     |
+ -- -- 
+      |
+      |
+ -- -- 
+
+---
+current:
+  character: digit 9
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./digit-9.txt>
+    license: CC0 Public Domain
+...

@@ -1,0 +1,20 @@
+       
+       
+       
+ --    
+|  |   
+|  |   
+ --   
+
+
+---
+current:
+  character: square bottom left
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./square-bottom-left.txt>
+    license: CC0 Public Domain
+...

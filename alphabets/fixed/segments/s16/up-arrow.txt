@@ -1,0 +1,19 @@
+       
+       
+       
+       
+  / \  
+ /   \ 
+ -- -- 
+
+---
+current:
+  character: up arrow
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./up-arrow.txt>
+    license: CC0 Public Domain
+...
