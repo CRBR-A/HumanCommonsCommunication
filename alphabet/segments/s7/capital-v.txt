@@ -1,0 +1,16 @@
+   
+| |
+|_|
+
+---
+current:
+  character: capital letter v
+  source:
+    title: 7-Segment Display Font
+    author: ThatFontGuy23
+    url: <https://fontstruct.com/fontstructions/show/2476306/7-segment-display-34>
+    license: CC0 1.0 Universal
+  file:
+    url: <./capital-v.txt>
+    license: CC0 1.0 Universal
+...
