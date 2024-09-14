@@ -1,0 +1,19 @@
+       
+   |   
+   |   
+       
+   |   
+   |   
+       
+
+---
+current:
+  character: small letter l
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./small-l.txt>
+    license: CC0 Public Domain
+...

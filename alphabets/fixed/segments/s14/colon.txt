@@ -1,0 +1,19 @@
+ --     
+       
+       
+ --    
+        
+        
+       
+
+---
+current:
+  character: colon
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./colon.txt>
+    license: CC0 Public Domain
+...

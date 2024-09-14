@@ -1,0 +1,19 @@
+ ----- 
+   |   
+   |   
+       
+   |   
+   |   
+ ----- 
+
+---
+current:
+  character: capital letter i
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./capital-i.txt>
+    license: CC0 Public Domain
+...

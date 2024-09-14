@@ -1,0 +1,19 @@
+ ----- 
+     / 
+    /  
+    -- 
+    \  
+     \ 
+ ----- 
+
+---
+current:
+  character: right curly bracket
+  source:
+    author: drakzlin
+    url: <https://opengameart.org/content/characters-16-segment-displays>
+    license: CC0 Public Domain
+  file:
+    url: <./right-curly-bracket.txt>
+    license: CC0 Public Domain
+...
