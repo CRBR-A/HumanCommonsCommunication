@@ -1,0 +1,15 @@
+---
+current:
+  subject: 7-segment display
+  file:
+    url: <./7-segment_bceg.svg>
+    source: 
+      title: 7-segment_bceg.svg
+      url: https://commons.wikimedia.org/wiki/File:7-segment_bceg.svg
+      license: >
+        This image of simple geometry is ineligible for copyright and therefore in the public domain,
+        because it consists entirely of information that is common property and contains no original authorship.
+    license: public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
