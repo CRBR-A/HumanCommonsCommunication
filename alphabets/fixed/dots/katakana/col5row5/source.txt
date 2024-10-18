@@ -1,0 +1,3 @@
+source: https://opengameart.org/content/boxkana
+author: mold
+license: CC0
