@@ -1,0 +1,17 @@
+ ## 
+#  #
+  # 
+    
+  # 
+
+---
+current:
+  character: question mark
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./question-mark.txt>
+    license: CC0 Public Domain
+...

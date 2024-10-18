@@ -1,0 +1,17 @@
+ ## 
+ #  
+ #  
+ #  
+ ## 
+
+---
+current:
+  character: left square bracket
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./left-square-bracket.txt>
+    license: CC0 Public Domain
+...

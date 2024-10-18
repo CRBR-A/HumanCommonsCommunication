@@ -1,0 +1,16 @@
+  #
+  #
+   
+   
+
+---
+current:
+  character: single quotation mark
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./single-quotation-mark.txt>
+    license: CC0 Public Domain
+...

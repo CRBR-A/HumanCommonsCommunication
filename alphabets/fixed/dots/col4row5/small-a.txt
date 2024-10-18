@@ -1,0 +1,17 @@
+ ## 
+   #
+ ###
+#  #
+ ###
+
+---
+current:
+  character: small letter a
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./small-a.txt>
+    license: CC0 Public Domain
+...

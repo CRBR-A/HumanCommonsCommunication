@@ -1,0 +1,17 @@
+ ## 
+#  #
+#  #
+# #
+ ###
+
+---
+current:
+  character: capital letter q
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./capital-q.txt>
+    license: CC0 Public Domain
+...

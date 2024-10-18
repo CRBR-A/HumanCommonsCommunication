@@ -1,0 +1,17 @@
+ #  
+###
+ #  
+###
+ #  
+
+---
+current:
+  character: dollar sign
+  source:
+    author: kheftel
+    url: <https://opengameart.org/content/minimalist-pixel-fonts>
+    license: CC0 Public Domain
+  file:
+    url: <./dollar-sign.txt>
+    license: CC0 Public Domain
+...

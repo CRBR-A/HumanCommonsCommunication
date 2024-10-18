@@ -1,0 +1,17 @@
+####
+  #  
+  #  
+# #  
+ #  
+
+---
+current:
+  character: capital letter j
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./capital-j.txt>
+    license: CC0 Public Domain
+...

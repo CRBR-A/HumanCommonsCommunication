@@ -1,0 +1,16 @@
+#  
+#  
+#  
+###
+
+---
+current:
+  character: capital letter l
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./capital-l.txt>
+    license: CC0 Public Domain
+...

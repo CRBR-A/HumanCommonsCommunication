@@ -1,0 +1,17 @@
+ ### 
+#   #
+#    
+#   #
+ ##  
+
+---
+current:
+  character: capital letter c
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./capital-c.txt>
+    license: CC0 Public Domain
+...

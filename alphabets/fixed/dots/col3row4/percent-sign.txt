@@ -1,0 +1,16 @@
+# #
+ ## 
+## 
+# #
+
+---
+current:
+  character: percent sign
+  source:
+    author: drummyfish
+    url: https://opengameart.org/content/1bit-graphics-collection
+    license: CC0 Public Domain
+  file:
+    url: <./percent-sign.txt>
+    license: CC0 Public Domain
+...
