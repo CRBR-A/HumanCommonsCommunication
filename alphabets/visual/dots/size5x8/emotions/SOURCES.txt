@@ -1,0 +1,3 @@
+url: https://opengameart.org/content/16x16-emotes-for-rpgs-and-digital-pets
+author: Tomcat94
+license: CC0-1.0
