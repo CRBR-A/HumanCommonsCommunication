@@ -1,0 +1,5 @@
+url: https://opengameart.org/content/ascii-bitmap-font-futuristic
+author: domsson
+title: ASCII Bitmap Font "futuristic"
+license: CC0-1.0
+"Use in any way you want. If you do, please let me know about it in the comments. Thanks!"

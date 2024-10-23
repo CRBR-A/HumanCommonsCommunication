@@ -1,0 +1,3 @@
+url: https://opengameart.org/content/1bit-graphics-collection
+author: drummyfish
+license: CC0-1.0
