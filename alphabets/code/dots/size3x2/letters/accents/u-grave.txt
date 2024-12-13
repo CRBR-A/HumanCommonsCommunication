@@ -1,0 +1,12 @@
+ X
+XX
+XX
+
+---
+current:
+  letter: u grave accent
+  file: <./u-grave.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%99.svg>
+    license: public domain
+...

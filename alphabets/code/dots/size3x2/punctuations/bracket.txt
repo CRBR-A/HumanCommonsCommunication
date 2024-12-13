@@ -1,0 +1,12 @@
+  
+XX
+XX
+
+---
+current:
+  letter: bracket
+  file: <./bracket.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Bracket.svg>
+    license: public domain
+...

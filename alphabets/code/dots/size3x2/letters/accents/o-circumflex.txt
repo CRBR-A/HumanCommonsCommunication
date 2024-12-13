@@ -1,0 +1,12 @@
+XX
+ X
+ X
+
+---
+current:
+  letter: o circumflex
+  file: <./o-circumflex.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%94.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+  
+  
+X 
+
+---
+current:
+  letter: apostrophe
+  file: <./apostrophe.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Apostrophe.svg>
+    license: public domain
+...

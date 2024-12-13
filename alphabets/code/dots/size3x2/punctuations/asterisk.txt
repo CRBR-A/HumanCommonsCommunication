@@ -1,0 +1,12 @@
+  
+ X
+X 
+
+---
+current:
+  letter: asterisk
+  file: <./asterisk.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Asterisk.svg>
+    license: public domain
+...

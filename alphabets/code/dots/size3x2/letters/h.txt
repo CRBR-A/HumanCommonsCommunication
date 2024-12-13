@@ -1,0 +1,13 @@
+X 
+XX
+  
+
+---
+current:
+  letter: h
+  number: 8
+  file: <./h-8.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_H8.svg>
+    license: public domain
+...

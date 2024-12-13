@@ -1,0 +1,12 @@
+X 
+  
+XX
+
+---
+current:
+  letter: u
+  file: <./u.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_U.svg>
+    license: public domain
+...

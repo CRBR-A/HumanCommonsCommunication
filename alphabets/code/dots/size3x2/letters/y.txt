@@ -1,0 +1,12 @@
+XX
+ X
+XX
+
+---
+current:
+  letter: y
+  file: <./y.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Y.svg>
+    license: public domain
+...

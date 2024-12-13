@@ -1,0 +1,12 @@
+X 
+XX
+X 
+
+---
+current:
+  letter: r
+  file: <./R.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_R.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+XX
+X 
+XX
+
+---
+current:
+  letter: c-cedilla
+  file: <./c-cedilla.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_AND.svg>
+    license: public domain
+...

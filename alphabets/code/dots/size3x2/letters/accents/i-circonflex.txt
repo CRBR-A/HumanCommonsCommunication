@@ -1,0 +1,12 @@
+XX
+  
+ X
+
+---
+current:
+  letter: i circonflex
+  file: <./i-circonflex.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_SH.svg>
+    license: public domain
+...

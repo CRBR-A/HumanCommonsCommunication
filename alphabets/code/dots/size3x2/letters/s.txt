@@ -1,0 +1,12 @@
+ X
+X 
+X 
+
+---
+current:
+  letter: s
+  file: <./s.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_S.svg>
+    license: public domain
+...

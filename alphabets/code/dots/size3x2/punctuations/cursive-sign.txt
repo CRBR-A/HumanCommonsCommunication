@@ -1,0 +1,12 @@
+ X
+ X
+ X
+
+---
+current:
+  letter: cursive-sign
+  file: <./cursive-sign.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_CursiveSign.svg>
+    license: public domain
+...

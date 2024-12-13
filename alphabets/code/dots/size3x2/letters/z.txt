@@ -1,0 +1,12 @@
+X 
+ X
+XX
+
+---
+current:
+  letter: z
+  file: <./z.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Z.svg>
+    license: public domain
+...

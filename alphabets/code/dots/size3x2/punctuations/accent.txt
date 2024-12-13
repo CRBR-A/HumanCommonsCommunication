@@ -1,0 +1,12 @@
+ X
+  
+  
+
+---
+current:
+  letter: accent
+  file: <./accent.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Accent.svg>
+    license: public domain
+...

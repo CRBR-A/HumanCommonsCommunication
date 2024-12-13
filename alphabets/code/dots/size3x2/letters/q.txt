@@ -1,0 +1,12 @@
+XX
+XX
+X 
+
+---
+current:
+  letter: q
+  file: <./q.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Q.svg>
+    license: public domain
+...

@@ -1,0 +1,13 @@
+ X
+X 
+  
+
+---
+current:
+  letter: i
+  number: 9
+  file: <./i-9.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_I9.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+  
+X 
+XX
+
+---
+current:
+  letter: quote open
+  file: <./quote-open.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_QuoteOpen.svg>
+    license: public domain
+...

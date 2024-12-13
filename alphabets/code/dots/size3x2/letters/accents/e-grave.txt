@@ -1,0 +1,12 @@
+ X
+X 
+XX
+
+---
+current:
+  letter: e grave
+  file: <./e-grave.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_%C3%88.svg>
+    license: public domain
+...

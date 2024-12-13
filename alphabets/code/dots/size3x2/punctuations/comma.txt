@@ -1,0 +1,12 @@
+  
+X 
+  
+
+---
+current:
+  letter: comma
+  file: <./comma.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Comma.svg>
+    license: public domain
+...

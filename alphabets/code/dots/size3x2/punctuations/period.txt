@@ -1,0 +1,12 @@
+  
+XX
+ X
+
+---
+current:
+  letter: period
+  file: <./period.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Period.svg>
+    license: public domain
+...

@@ -1,0 +1,12 @@
+XX
+  
+X 
+
+---
+current:
+  letter: m
+  file: <./m.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_M.svg>
+    license: public domain
+...

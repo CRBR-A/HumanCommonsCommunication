@@ -1,0 +1,12 @@
+  
+X 
+X 
+
+---
+current:
+  letter: semicolon
+  file: <./semicolon.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_Semicolon.svg>
+    license: public domain
+...

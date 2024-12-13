@@ -1,0 +1,12 @@
+XX
+ X
+X 
+
+---
+current:
+  letter: n
+  file: <./n.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_N.svg>
+    license: public domain
+...

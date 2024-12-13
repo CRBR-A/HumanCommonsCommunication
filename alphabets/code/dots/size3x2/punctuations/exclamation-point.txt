@@ -1,0 +1,12 @@
+  
+XX
+X 
+
+---
+current:
+  letter: exclamation point
+  file: <./exclamation-point.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_ExclamationPoint.svg>
+    license: public domain
+...

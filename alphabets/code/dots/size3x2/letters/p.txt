@@ -1,0 +1,12 @@
+XX
+X 
+X 
+
+---
+current:
+  letter: p
+  file: <./p.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_P.svg>
+    license: public domain
+...

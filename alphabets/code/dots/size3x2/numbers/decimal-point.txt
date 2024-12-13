@@ -1,0 +1,12 @@
+ X
+  
+ X
+
+---
+current:
+  letter: decimal-point
+  file: <./decimal-point.txt>
+  source:
+    url: <https://commons.wikimedia.org/wiki/File:Braille_DecimalPoint.svg>
+    license: public domain
+...
